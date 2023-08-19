@@ -29,8 +29,8 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 [linkedin]: https://www.linkedin.com/in/christopher-williams-7a503572
 
 <br>
-<h3> Certifications  </h3>
-<!--
+
+
 
 
 
