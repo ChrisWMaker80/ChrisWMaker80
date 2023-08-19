@@ -10,10 +10,9 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 <h3> Cyber Security Notes and Projects</h3>
 
 
-- <b></b>
+- <b> In Progress</b>
 
-- <b></b>
-  
+
 
 <h3> Networking / Cloud Notes and Projects</h3>
 
