@@ -21,9 +21,6 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 - Setting up a VPCs with a peering connection. Without ANSIBLE. (Quick Reference)
 
 
-<h2>  Socials:</h2>
-<a href="https://www.linkedin.com/in/christopher-williams-7a503572">Linkedin</a>
-<!-- [<img align="left" alt="Chrisr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 
 
