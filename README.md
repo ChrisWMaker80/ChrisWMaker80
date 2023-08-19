@@ -2,7 +2,6 @@
 <h1>Hi, I'm Chris! <a href="https://github.com/ChrisWMaker80">A Cybersecurity and Networking Proessional</a>
 <br><br>
 
-
   
 I’m currently working on Cybersecurity, Cloud and Networking projects.
 
@@ -10,7 +9,7 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 
 <h3> Cyber Security Notes and Projects</h3>
 
-  
+
 - <b></b>
 
 - <b></b>
@@ -30,21 +29,11 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 
 
 
-
-
 [linkedin]: https://www.linkedin.com/in/christopher-williams-7a503572
 
 <br>
 <h3> Certifications  </h3>
 <!--
-Here are some ideas to get you started:
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡ 
--->
+
+
