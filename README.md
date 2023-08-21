@@ -11,7 +11,7 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 
 
 - <b> In Progress</b>
-- <b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scanss</a></b>
+- <b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scans</a></b>
 
 
 
