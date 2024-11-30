@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Chris! <a href="https://github.com/ChrisWMaker80">An IT Networking and Cybersecurity sepecialist</a>
+<h1>Hi, I'm Chris! <a href="https://github.com/ChrisWMaker80">An IT Networking and Cybersecurity specialist</a>
 <br><br>
 
   
