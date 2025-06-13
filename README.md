@@ -1,9 +1,9 @@
 
-<h1>Hi <a href="https://github.com/ChrisWMaker80">A am a Networking, Devops, and Cybersecurity Specialist</a>
+<h1>Hi <a href="https://github.com/ChrisWMaker80">I am an IT specialist in skills in networking, network security, and Linux</a>
 <br><br>
 
   
-I’m currently working on Cybersecurity, Cloud and Networking projects.
+I’m currently working on network security, Linux, and automation projects.
 
 
 
