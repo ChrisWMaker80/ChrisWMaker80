@@ -22,7 +22,7 @@ I’m currently working on Cybersecurity, Cloud and Networking projects.
 - Cisco Identity Service Engine
 
 
-<h3> Automation Projects ojects</h3>
+<h3> Network and Linux Automation </h3>
 
 
 
