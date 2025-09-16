@@ -7,7 +7,7 @@ I’m currently working on network security, Linux, and automation projects.
 
 
 
-<h3> Cyber Security Notes and Projects</h3>
+<h3> Portfolios and Projectss</h3>
 
 
 - <b> In Progress</b>
