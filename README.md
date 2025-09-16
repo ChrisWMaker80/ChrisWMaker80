@@ -1,5 +1,5 @@
 
-<h1>Hi <a href="https://github.com/ChrisWMaker80">I am an IT specialist</a>
+<h1> <a href="https://github.com/ChrisWMaker80"> Content Writer and Tech Professional</a>
 <br><br>
 
   
