@@ -10,9 +10,8 @@ I’m currently working on network security, Linux, and automation projects.
 <h3> Portfolios and Projectss</h3>
 
 
-- <b> In Progress</b>
+- <b> Cyber Security Doc</b>
 - <b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scans</a></b>
-
 
 
 <h3> Networking / Cloud Notes and Projects</h3>
@@ -22,7 +21,8 @@ I’m currently working on network security, Linux, and automation projects.
 - Cisco Identity Service Engine
 
 
-<h3> Network and Linux Automation </h3>
+<h3> Writing General </h3>
+
 
 
 
