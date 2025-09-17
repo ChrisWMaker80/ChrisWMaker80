@@ -4,7 +4,7 @@
 <br><br>
 
   
-I’m currently working on network security, Linux, and automation projects.
+Working on network security, Linux, and automation projects.
 
 
 
