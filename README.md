@@ -24,8 +24,8 @@ I’m currently working on network security, Linux, and automation projects.
 
 <h3> Writing General </h3>
 <li><b><A href="https://github.com/ChrisWMaker80/FileSample1">Short Sample Fictional Press Release</a></b></li>
-<li><b><A href="https://github.com/ChrisWMaker80/FileSample2">Short Sample Marketing Document/a></b></li>
-<li></li>
+<li><b><A href="https://github.com/ChrisWMaker80/FileSample2">Short Sample Marketing Document</a></b></li>
+
 
 </ul>
 
