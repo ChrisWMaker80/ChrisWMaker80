@@ -8,10 +8,8 @@ I’m currently working on network security, Linux, and automation projects.
 
 
 
-<h3> Portfolios and Projectss</h3>
+<h3> Cyber Security Doc</h3>
 
-
-<li><b> Cyber Security Doc</b></li>
 <li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scans</a></b></li>
 
 
