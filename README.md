@@ -3,10 +3,6 @@
 <h1><a href="https://github.com/ChrisWMaker80"> Content Writer and Tech Professional</a>
 <br><br>
 
-  
-Working on network security, Linux, and automation projects.
-
-
 
 <h3> Cyber Security Documents and Guides</h3>
 
