@@ -15,8 +15,7 @@
 <li><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></li>
 <li>Setting up a VPCs with a peering connection. Without ANSIBLE. (Quick Reference)</li>
 <li>Firewalls </li>
-<li>BGP (In Progress)</li>
-<li>OSPF (In Progress)</li>
+
 
 
 <h3> Writing General </h3>
