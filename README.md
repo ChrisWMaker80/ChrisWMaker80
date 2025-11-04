@@ -15,15 +15,17 @@ I gained an interest in cyber-security and obtained another degree in that domai
 This GitHub will serve as a simple repository for written and visual projects for display. 
 
 <h3> Technology Write-Ups </h3>
-<p style="line-height: 1;"><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></p>
-<b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></p>
-<p style="line-height: .5;">PKI (In Progress) </br>
-<p style="line-height: .5;">Firewalls (In progress) </br>
-
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li><p style="line-height: 1;"><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></p></li>
+<li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></p></li>
+<li><p style="line-height: .5;">PKI (In Progress) </br></li>
+<li><p style="line-height: .5;">Firewalls (In progress) </br></li>
+</ul>
 <h3> General Write-Ups </h3>
-<p style="line-height: .5;"><b><A href="https://github.com/ChrisWMaker80/FileSample1">Short Sample Fictional Press Release</a></p>
-<p style="line-height: .5;"><b><A href="https://github.com/ChrisWMaker80/FileSample2">Short Sample Marketing Document</a></p>
-
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li><p style="line-height: .5;"><b><A href="https://github.com/ChrisWMaker80/FileSample1">Short Sample Fictional Press Release</a></p></li>
+<li><p style="line-height: .5;"><b><A href="https://github.com/ChrisWMaker80/FileSample2">Short Sample Marketing Document</a></p></li>
+</ul>
 
 </ul>
 
