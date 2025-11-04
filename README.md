@@ -7,7 +7,7 @@
 <li><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></li>
 <li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></b></li>
 <li>PKI (In Progress)</li>
-<li>Firewalls (in progress </li>
+<li>Firewalls (in progress) </li>
 
 
 <h3> General Write-Ups </h3>
