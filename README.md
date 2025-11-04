@@ -4,7 +4,7 @@
 
 <h3> Background </h3>
 
-I am a dedicated professional with over a decade of hands-on experience in networking and cybersecurity.  
+I am a dedicated problem solver with over a decade of hands-on experience in networking and cybersecurity.  
 
 I went to college and took a sample of pre-engineering courses but ultimately decided to go into the direction of technical writing.  Upon graduating, I entered the workforce via entry level tech-support roles where I began to gain exposure to IT infrastructure support. 
 
