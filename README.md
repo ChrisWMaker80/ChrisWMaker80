@@ -16,7 +16,7 @@ This GitHub will serve as a simple repository for written and visual projects fo
 
 <h3> Technology Write-Ups </h3>
 <p style="line-height: 1;"><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></p>
-<p style="line-height: 1;"><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></p>
+<b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></p>
 <p style="line-height: 1;">PKI (In Progress) </br>
 <p style="line-height: 1;">Firewalls (In progress) </br>
 
