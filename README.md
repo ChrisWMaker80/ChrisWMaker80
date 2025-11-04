@@ -2,7 +2,7 @@
 <ul>
 <h1><a href="https://github.com/ChrisWMaker80"> Content Writer and Tech Professional</a>
 
-<h3> Tech Write-Ups </h3>
+<h3> Technology Write-Ups </h3>
 
 <li><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></li>
 <li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></b></li>
