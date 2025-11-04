@@ -15,10 +15,10 @@ I gained an interest in cyber-security and obtained another degree in that domai
 This GitHub will serve as a simple repository for written and visual projects for display. 
 
 <h3> Technology Write-Ups </h3>
-<br><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a>
+<br><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></br>
 <br><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></b>
-<br>PKI (In Progress)
-<br>Firewalls (In progress) 
+<br>PKI (In Progress) </br>
+<br>Firewalls (In progress) </br>
 
 <h3> General Write-Ups </h3>
 <br><b><A href="https://github.com/ChrisWMaker80/FileSample1">Short Sample Fictional Press Release</a></b>
