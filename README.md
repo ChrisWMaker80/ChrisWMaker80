@@ -1,6 +1,6 @@
 
 <ul>
-<h1><a href="https://github.com/ChrisWMaker80"> Content Writer and Tech Professional</a>
+<h1><a href="https://github.com/ChrisWMaker80"> Content Writer And Tech Professional</a>
 
 <h3> Technology Write-Ups </h3>
 
