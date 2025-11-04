@@ -2,23 +2,15 @@
 <ul>
 <h1><a href="https://github.com/ChrisWMaker80"> Content Writer and Tech Professional</a>
 
-
-<h3> Cyber Security Documents and Guides</h3>
-
-<li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scans</a></b></li>
-<li>PKI (In Progress)</li>
-
-
-
-<h3> Networking / Cloud Notes and Projects</h3>
+<h3> Tech Write-ups </h3>
 
 <li><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></li>
-<li>Setting up a VPCs with a peering connection. Without ANSIBLE. (Quick Reference)</li>
-<li>Firewalls </li>
+<li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifact</a></b></li>
+<li>PKI (In Progress)</li>
+<li>Firewalls (in progress </li>
 
 
-
-<h3> Writing General </h3>
+<h3> General Write-ups </h3>
 <li><b><A href="https://github.com/ChrisWMaker80/FileSample1">Short Sample Fictional Press Release</a></b></li>
 <li><b><A href="https://github.com/ChrisWMaker80/FileSample2">Short Sample Marketing Document</a></b></li>
 
