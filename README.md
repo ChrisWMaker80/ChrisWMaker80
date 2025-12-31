@@ -1,6 +1,6 @@
 
 <ul>
-<h1><a href="https://github.com/ChrisWMaker80"> Writer And Techology Professional</a>
+<h1><a href="https://github.com/ChrisWMaker80"> Writer And Network Engineer</a>
 
 <h3> Background </h3>
 
