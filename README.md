@@ -1,6 +1,6 @@
 
 <ul>
-<h1><a href="https://github.com/ChrisWMaker80"> Writer And Network Engineer</a>
+<h1><a href="https://github.com/ChrisWMaker80"> Network Engineer</a>
 
 <h3> Background </h3>
 
@@ -14,7 +14,7 @@ I gained an interest in cyber-security and obtained another degree in that domai
 
 This GitHub will serve as a simple repository for written and visual projects for display. 
 
-<h3> Network Engineering Documents </h3>
+<h3> Network Automation Related Documents </h3>
 
 
 <h3> General Technology Write-Ups </h3>
