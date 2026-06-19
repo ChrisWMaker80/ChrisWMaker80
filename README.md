@@ -8,7 +8,7 @@ I am a tech specialist solver with over a decade of hands-on experience in netwo
 
 I went to college and took a sample of pre-engineering courses but ultimately decided to go into the direction of technical writing.  Upon graduating, I entered the workforce via entry level tech-support roles where I began to gain exposure to IT infrastructure support. 
 
-After a few years, I moved into network engineering roles that involved implementing modern SD-WAN and wireless systems into enterprise networks. I have also had roles specializing in network system administration, endpoint protection, and automation. 
+After a few years, I moved into network engineering roles that involved implementing modern SD-WAN and wireless systems within enterprises. I have also had roles specializing in network system administration, endpoint protection, and automation. 
 
 Over time, I have gained an interest in modern technologies involving simplifying the configuration of networks.    
 
