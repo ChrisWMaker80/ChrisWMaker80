@@ -14,7 +14,7 @@ Over time, I have gained an interest in modern technologies involving simplifyin
 
 This GitHub will serve as a simple repository for written and visual projects for display. 
 
-<h3> Network Automation Related Documents </h3>
+<h3> Networking and Network Automation </h3>
 
 
 <h3> General Technology Write-Ups </h3>
