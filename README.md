@@ -21,8 +21,8 @@ This GitHub will serve as a simple repository for written and visual projects fo
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 <li><p style="line-height: 1;"><a href="https://github.com/ChrisWMaker80/Dock-Test-1">Docker Setup (Quick Reference)</a></p></li>
 <li><b><A href="https://github.com/ChrisWMaker80/Vulnerabletesting001"> Vulnerability Scan artifacts</a></p></li>
-<li><p style="line-height: .5;">PKI (In Progress) </br></li>
-<li><p style="line-height: .5;">Firewalls (In progress) </br></li>
+<li><p style="line-height: .5;">PKI (Soon) </br></li>
+<li><p style="line-height: .5;">VPNs (Soon) </br></li>
 </ul>
 <h3> General Write-Ups </h3>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
